@@ -12,6 +12,8 @@ My name is Andrey and I'm a Frontend Developer, but sometimes I'm Backend too
 - React, Next.js
 - Redux Toolkit, Zustand
 - RTK Query, React Query, React Hook Form
+- Vue 2/3, Nuxt
+- Vuex, Pinia
 - Node.js
 - Express.js, Nest.js
 - PostgreSQL
