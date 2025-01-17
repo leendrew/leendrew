@@ -1,8 +1,9 @@
 # Hi ~ <img src="https://cdn.betterttv.net/emote/5b490e73cf46791f8491f6f4/2x.webp" alt="HACKERMANS" width="36">
 
 My name is Andrey and I'm a Frontend Developer, but sometimes I'm Backend too
-
-<img src="https://media.tenor.com/Jxbk24m0vV4AAAAd/vibe-rabbit.gif" width="640" height="160">
+<p align="center">
+  <img src="https://media.tenor.com/Jxbk24m0vV4AAAAd/vibe-rabbit.gif" width="640" height="160">
+</p>
 
 ## <img src="https://cdn.betterttv.net/emote/6197ab6f54f3344f8806589d/2x.webp" alt="SUSSY" width="28"> Languages and Tools
 
